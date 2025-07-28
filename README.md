@@ -1,4 +1,4 @@
-# Supporting Data for “Hidden Local Anion Order in the Disordered Monoclinic Phase of Na<sub>2</sub>Ta<sub>2</sub>O<sub>5</sub>F<sub>2</sub> Oxyfluoride Revealed by High-Field Solid-State NMR and DFT Calculations”
+# Supporting Data for “Hidden Local Anion Order in Disordered Na<sub>2</sub>Ta<sub>2</sub>O<sub>5</sub>F<sub>2</sub> Oxyfluoride Revealed by High-Field Solid-State NMR and DFT Calculations”
 
 ## Graphical Abstract
 
@@ -10,7 +10,7 @@
 **Website:** [Ouail Zakary - webpage](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)  
 **Personal Website:** [Ouail Zakary - personal webpage](https://ozakary.github.io/)
 
-This is the Supporting Dataset for the manuscript “Hidden Local Anion Order in the Disordered Monoclinic Phase of Na<sub>2</sub>Ta<sub>2</sub>O<sub>5</sub>F<sub>2</sub> Oxyfluoride Revealed by High-Field Solid-State NMR and DFT Calculations”. [DOI: TBA]
+This is the Supporting Dataset for the manuscript “Hidden Local Anion Order in Disordered Na<sub>2</sub>Ta<sub>2</sub>O<sub>5</sub>F<sub>2</sub> Oxyfluoride Revealed by High-Field Solid-State NMR and DFT Calculations”. [DOI: TBA]
 
 The dataset comprises the following sections:
 
@@ -25,10 +25,10 @@ The dataset comprises the following sections:
 
 If you use this data, please cite the following: \
 \
-**Paper:** Zakary, O.; Body, M.; Legein, C. Hidden Local Anion Order in the Disordered Monoclinic Phase of Na<sub>2</sub>Ta<sub>2</sub>O<sub>5</sub>F<sub>2</sub> Oxyfluoride Revealed by High-Field Solid-State NMR and DFT Calculations. *In preparation* **2025**. [DOI: TBA]
+**Paper:** Zakary, O.; Body, M.; Legein, C. Hidden Local Anion Order in Disordered Na<sub>2</sub>Ta<sub>2</sub>O<sub>5</sub>F<sub>2</sub> Oxyfluoride Revealed by High-Field Solid-State NMR and DFT Calculations. *In preparation* **2025**. [DOI: TBA]
 
 \
-**Dataset:** Zakary, O.; Body, M.; Legein, C. (**2025**). Supporting Data for “Hidden Local Anion Order in the Disordered Monoclinic Phase of Na<sub>2</sub>Ta<sub>2</sub>O<sub>5</sub>F<sub>2</sub> Oxyfluoride Revealed by High-Field Solid-State NMR and DFT Calculations”. *figshare. Dataset.* [DOI: TBA]
+**Dataset:** Zakary, O.; Body, M.; Legein, C. (**2025**). Supporting Data for “Hidden Local Anion Order in Disordered Na<sub>2</sub>Ta<sub>2</sub>O<sub>5</sub>F<sub>2</sub> Oxyfluoride Revealed by High-Field Solid-State NMR and DFT Calculations”. *figshare. Dataset.* [DOI: TBA]
 
 ---
 
